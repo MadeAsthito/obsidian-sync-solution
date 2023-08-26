@@ -8,7 +8,7 @@ Feel free to take the idea and implemented it yourself !
 - *Firstly this is scenario where your main obsidian is in windows desktop, and you wanted to access it from other device, like iphone*
 - My solution to sync between different device is using two concept and tools :
 	- **GitHub Repo** for **Windows**, and **other PC**
-		- This idea is pretty simple, using one of community plugin, [obdisian-git](https://github.com/denolehov/obsidian-git), we could automatically pull repo and push our obsidian
+		- This idea is pretty simple, using one of community plugin, [obdisian-git](https://github.com/denolehov/obsidian-git), we could automatically pull repo and push our obsidian, so we could easily access it from other desktop
 	- **Cloud Storage** (**ICloud, or other**) with **batch file** and **automatic task scheduler**
 		- In this solution, I only use **ICloud** to sync my **Window Desktop** and **Iphone 11**
 		- The concept is, by connecting **ICloud** and **Windows** using **icloud app** and getting direct access to the **cloud storage**, we could make **script** that **automatically**, **first delete all file & folder** (except .obsidian file), then **copy your desktop obsidian folder** to **ICloud / Cloud Storage**
