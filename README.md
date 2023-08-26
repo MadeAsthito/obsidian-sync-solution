@@ -1,7 +1,8 @@
 # Free syncing feature for Obsidian !
 
 *This is only tested in Windows and IOS, 
-Feel free to take the idea and implemented it yourself !*
+Feel free to take the idea and implemented it yourself !
+-- Thito *
 
 ### Okay, what is the concept of this ?
 - *Firstly this is scenario where your main obsidian is in windows desktop, and you wanted to access it from other device, like iphone*
