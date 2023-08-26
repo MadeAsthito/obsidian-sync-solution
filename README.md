@@ -1,8 +1,10 @@
 # Free syncing feature for Obsidian !
 
-*This is only tested in Windows and IOS, 
-Feel free to take the idea and implemented it yourself !
--- Thito *
+_This is only tested in Windows (Main) and Iphone (Secondary)_
+<ln>
+_BUT, feel free to take the idea and implemented it yourself !_
+<ln>
+_-- Thito_
 
 ### Okay, what is the concept of this ?
 - *Firstly this is scenario where your main obsidian is in windows desktop, and you wanted to access it from other device, like iphone*
@@ -15,7 +17,7 @@ Feel free to take the idea and implemented it yourself !
 
 ## Initial Configuration
 1. Download **obsidian-git** community plugin, and then setup the automatic **pull & push** repo by following their **simple** guide
-2. Change all you default created file directory to some "main folder", in this case, i make a main folder named [[#Default Configuration Folder directory|"--HOME--" ]]
+2. Change all you default created file directory to some "main folder", in this case, i make a main folder named [--HOME--](#Default-Configuration-Folder-directory)
 3. After that, initialize your obsidian on your phone, here I used **iphone 11**, in your **cloud storage**, like **icloud**
 4. Download and connect your **cloud storage** into your **desktop** 
 	- I use **icloud app** so I could access my **cloud directory**
@@ -79,7 +81,7 @@ Feel free to take the idea and implemented it yourself !
 8. Lastly, configure a **task scheduler**, on **Windows**
 	- Press `win+r`
 	- Open `taskschd.msc`
-	- On the **top left**, click **action** then **create a task**, [[#Create Task Example|like this]]
+	- On the **top left**, click **action** then **create a task**, [like this](#Create-Task-Example)
 	- The main things is, we need to make a task schedule every **hour** to run our **silent-sync.vbs**, that will run our **obsidian-sync.bat** on **background** **silently**, while excluding all file in **fileObsidianIgnore.txt**
 
 9. **F I N I S H !**
@@ -105,14 +107,14 @@ Feel free to take the idea and implemented it yourself !
 
 ## Screenshot :
 ### Default Configuration Folder directory
-![[Pasted image 20230827015543.png]]
-![[Pasted image 20230827015819.png|600]]
-![[Pasted image 20230827015803.png|600]]
-![[Pasted image 20230827015857.png|600]]
+![1](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015543.png)
+![2](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015819.png)
+![3](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015803.png)
+![4](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015857.png)
 
 ### Create Task Example
-![[Pasted image 20230827023408.png]]
-![[Screenshot 2023-08-27 023455.png|600]]
-![[Pasted image 20230827023638.png|600]]
-![[Pasted image 20230827023856.png|600]]
-![[Pasted image 20230827023712.png|600]]
+![1](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023408.png)
+![2](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Screenshot%202023-08-27%20023455.png)
+![3](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023638.png)
+![4](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023856.png)
+![5](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023712.png)
