@@ -107,14 +107,14 @@ _-- Thito_
 
 ## Screenshot :
 ### Default Configuration Folder directory
-![1](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015543.png)
-![2](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015819.png)
-![3](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015803.png)
-![4](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015857.png)
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015543.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015819.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015803.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827015857.png' width=500>
 
 ### Create Task Example
-![1](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023408.png)
-![2](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Screenshot%202023-08-27%20023455.png)
-![3](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023638.png)
-![4](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023856.png)
-![5](https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023712.png)
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023408.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Screenshot%202023-08-27%20023455.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023638.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023856.png' width=500>
+<img src='https://github.com/MadeAsthito/obsidian-sync-solution/blob/main/img/Pasted%20image%2020230827023712.png' width=500>
